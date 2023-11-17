@@ -1,7 +1,7 @@
 # Advice-Generator-App
 This is an application that uses the Advice Slip JSON API to fetch data on all various pieces of advice.
 
-#Overview
+## Overview
 users should be able to:
 -generate random advice just by a  click of the button
 
